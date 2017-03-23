@@ -15,3 +15,9 @@
 
 でインストールできることは確認できた。もしかして毎回これやるのか。
 
+ビルドのために、 `local.properties` というファイルを作成する必要がある。
+
+```bash:local_properties
+sdk.dir=/home/kazuya/Android/Sdk
+```
+
